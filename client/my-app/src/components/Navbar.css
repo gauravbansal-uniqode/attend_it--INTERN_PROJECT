@@ -1,0 +1,16 @@
+/* .heading{
+    font-family: 'Libre Barcode 128 Text', system-ui;
+    font-weight: 700;
+    color: darkorange;
+    font-size: 2rem;
+} */
+.nav{
+    -webkit-box-shadow: 1px 5px 41px -24px rgba(255,208,127,1);
+    -moz-box-shadow: 1px 5px 41px -24px rgba(255,208,127,1);
+    box-shadow: 1px 5px 41px -24px rgba(255,208,127,1);     
+    position: fixed;
+    top:0;
+    width:100%;
+    background-color: white;
+    overflow: hidden;
+}

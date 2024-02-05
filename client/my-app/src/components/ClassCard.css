@@ -1,0 +1,9 @@
+.comp{
+    -webkit-box-shadow: 1px 5px 41px -24px rgba(255,208,127,1);
+    -moz-box-shadow: 1px 5px 41px -24px rgba(255,208,127,1);
+    box-shadow: 1px 5px 41px -24px rgba(255,208,127,1);     
+}
+
+.ant-spin-dot-item {
+    background-color: orange !important;
+  }

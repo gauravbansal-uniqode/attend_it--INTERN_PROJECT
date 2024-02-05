@@ -1,0 +1,18 @@
+.container-fluid {
+    height: 100%;
+    width: 100%;
+    overflow-y: hidden; /* don't show content that exceeds my height */
+    min-height: 100vh;
+}
+.heading{
+    font-family: 'Libre Barcode 128 Text', system-ui;
+    font-weight: 700;
+    color: darkorange;
+    font-size: 4rem;
+}
+
+.selected{
+    
+    color: darkorange;
+    font-weight:600;
+}
